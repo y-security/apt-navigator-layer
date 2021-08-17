@@ -1,5 +1,5 @@
 {
-	"name": "layer",
+	"name": "Example Kill Chain",
 	"versions": {
 		"attack": "9",
 		"navigator": "4.3",
@@ -36,7 +36,7 @@
 		{
 			"techniqueID": "T1087",
 			"tactic": "discovery",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -45,7 +45,7 @@
 		{
 			"techniqueID": "T1583",
 			"tactic": "resource-development",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -54,7 +54,7 @@
 		{
 			"techniqueID": "T1071",
 			"tactic": "command-and-control",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -63,7 +63,7 @@
 		{
 			"techniqueID": "T1547",
 			"tactic": "persistence",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -72,7 +72,7 @@
 		{
 			"techniqueID": "T1547",
 			"tactic": "privilege-escalation",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -81,7 +81,7 @@
 		{
 			"techniqueID": "T1554",
 			"tactic": "persistence",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -90,7 +90,7 @@
 		{
 			"techniqueID": "T1555",
 			"tactic": "credential-access",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -99,7 +99,7 @@
 		{
 			"techniqueID": "T1486",
 			"tactic": "impact",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -108,7 +108,7 @@
 		{
 			"techniqueID": "T1005",
 			"tactic": "collection",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -117,7 +117,7 @@
 		{
 			"techniqueID": "T1482",
 			"tactic": "discovery",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -126,7 +126,7 @@
 		{
 			"techniqueID": "T1048",
 			"tactic": "exfiltration",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -135,7 +135,7 @@
 		{
 			"techniqueID": "T1041",
 			"tactic": "exfiltration",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -144,7 +144,7 @@
 		{
 			"techniqueID": "T1190",
 			"tactic": "initial-access",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -153,7 +153,7 @@
 		{
 			"techniqueID": "T1133",
 			"tactic": "persistence",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -162,7 +162,7 @@
 		{
 			"techniqueID": "T1133",
 			"tactic": "initial-access",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -171,7 +171,7 @@
 		{
 			"techniqueID": "T1083",
 			"tactic": "discovery",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -180,7 +180,7 @@
 		{
 			"techniqueID": "T1574",
 			"tactic": "persistence",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -189,7 +189,7 @@
 		{
 			"techniqueID": "T1574",
 			"tactic": "privilege-escalation",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -198,7 +198,7 @@
 		{
 			"techniqueID": "T1574",
 			"tactic": "defense-evasion",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -207,7 +207,7 @@
 		{
 			"techniqueID": "T1534",
 			"tactic": "lateral-movement",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -216,7 +216,7 @@
 		{
 			"techniqueID": "T1570",
 			"tactic": "lateral-movement",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -225,7 +225,7 @@
 		{
 			"techniqueID": "T1135",
 			"tactic": "discovery",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -234,7 +234,7 @@
 		{
 			"techniqueID": "T1566",
 			"tactic": "initial-access",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -243,7 +243,7 @@
 		{
 			"techniqueID": "T1057",
 			"tactic": "discovery",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -252,7 +252,7 @@
 		{
 			"techniqueID": "T1053",
 			"tactic": "execution",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -261,7 +261,7 @@
 		{
 			"techniqueID": "T1053",
 			"tactic": "persistence",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -270,7 +270,7 @@
 		{
 			"techniqueID": "T1053",
 			"tactic": "privilege-escalation",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -279,7 +279,7 @@
 		{
 			"techniqueID": "T1596",
 			"tactic": "reconnaissance",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -288,7 +288,7 @@
 		{
 			"techniqueID": "T1593",
 			"tactic": "reconnaissance",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -297,7 +297,7 @@
 		{
 			"techniqueID": "T1594",
 			"tactic": "reconnaissance",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -306,7 +306,7 @@
 		{
 			"techniqueID": "T1518",
 			"tactic": "discovery",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -315,7 +315,7 @@
 		{
 			"techniqueID": "T1608",
 			"tactic": "resource-development",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -324,7 +324,7 @@
 		{
 			"techniqueID": "T1204",
 			"tactic": "execution",
-			"color": "#6baed6",
+			"color": "#FF6961",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
